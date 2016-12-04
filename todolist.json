@@ -1,0 +1,16 @@
+[{
+        "description": "election",
+        "id": 0,
+        "soundurl": "sounds/trump2.wav"
+    },
+    {
+        "description": "music",
+        "id": 1,
+        "soundurl": "sounds/trump.wav"
+    },
+    {
+        "description": "christmas",
+        "id": 2,
+        "soundurl": "sounds/mc.wav"
+    }
+]
